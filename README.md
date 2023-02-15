@@ -1,4 +1,4 @@
-# account-transactions
+# Account Transactions
 *Withdraws money from a pre-determined balance.*
 
 ## Design and Implementation
